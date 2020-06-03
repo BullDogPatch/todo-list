@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo.completed {
+  text-decoration: line-through;
+}
+.todo {
+  width: 45%;
+  text-align: left;
+  margin: 4px 0;
+  padding: 8px;
+}
+
+.delete-btn {
+  margin-left: 20px;
+}
